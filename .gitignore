@@ -42,4 +42,4 @@ testem.log
 Thumbs.db
 
 # ignore generated
-src/app/generated/
+generated-sources/
